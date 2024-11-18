@@ -21,7 +21,6 @@
 ![C++](https://github.com/ArtemIyX/ArtemIyX/assets/68477399/f9336e5b-8b60-431c-a81a-db46e63a6f58)
 ![C#](https://github.com/ArtemIyX/ArtemIyX/assets/68477399/467fcc9c-d12d-49f3-833b-8b6bc6d61809)
 ![Python](https://github.com/ArtemIyX/ArtemIyX/assets/68477399/5f6a70cf-266e-426a-a3bb-970b862036a3)
-![Java](https://github.com/ArtemIyX/ArtemIyX/assets/68477399/aa66e2d2-e3a3-49ac-ba5d-06987fdedb39)
 ## Web
 ![HTML5](https://github.com/ArtemIyX/ArtemIyX/assets/68477399/435f0bef-68dc-43a8-b95f-0190a50dcac6)
 ![CSS3](https://github.com/ArtemIyX/ArtemIyX/assets/68477399/3ebdb463-fde8-4b2f-bc2a-7ddb1288eae8)
