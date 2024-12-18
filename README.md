@@ -9,7 +9,7 @@
 <br>
 🌟 A bit of experience with the backend
 <br>
-🌎 Developer of [Xeus](<https://discord.gg/kjShkNb25k>)
+🌎 Developer of [RockBelt](<https://wellsaik.itch.io/rockbelt>)
 <br>
 💥 Seeking collaboration opportunities. DM for inquiries!
 <br>
