@@ -12,10 +12,7 @@
 🌎 Developer of [RockBelt](<https://wellsaik.itch.io/rockbelt>)
 <br>
 ⚔️ Developer of [Riftborn](<https://store.steampowered.com/app/3421920/Riftborn/>)
-<br>
-💥 Seeking collaboration opportunities. DM for inquiries!
-<br>
-[Telegram](https://t.me/Wellsaik)
+
 # 💻 Tech Stack:
 ## Gamedev
 ![Unreal Engine 4/5](https://github.com/ArtemIyX/ArtemIyX/assets/68477399/1ba668e9-727a-4d82-bcce-adad475a2430)
