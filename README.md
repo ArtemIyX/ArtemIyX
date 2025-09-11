@@ -9,12 +9,12 @@
 <br>
 🌟 A bit of experience with the backend
 <br>
-🌎 Developer of [RockBelt](<https://wellsaik.itch.io/rockbelt>)
+🍋‍🟩 Client Developer of [Endless War](https://endlesswar.online/)
 <br>
-⚔️ Developer of [Riftborn](<https://store.steampowered.com/app/3421920/Riftborn/>)
-
+🍇 Developer of [RockBelt](<https://wellsaik.itch.io/rockbelt>)
+<br>
+🍉 Lead Developer of [Riftborn](<https://store.steampowered.com/app/3421920/Riftborn/>)
 # 💻 Tech Stack:
-## Gamedev
 ![Unreal Engine 4/5](https://github.com/ArtemIyX/ArtemIyX/assets/68477399/1ba668e9-727a-4d82-bcce-adad475a2430)
 ## Languages
 ![C++](https://github.com/ArtemIyX/ArtemIyX/assets/68477399/f9336e5b-8b60-431c-a81a-db46e63a6f58)
