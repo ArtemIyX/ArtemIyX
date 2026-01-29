@@ -9,7 +9,7 @@
 <br>
 🌟 A bit of experience with the backend
 <br>
-🍋‍🟩 Client Developer of [Endless War](https://endlesswar.online/)
+🍋‍🟩 Client Developer of [Endless War](https://newjourney.online/en/)
 <br>
 🍇 Developer of [RockBelt](<https://wellsaik.itch.io/rockbelt>)
 <br>
