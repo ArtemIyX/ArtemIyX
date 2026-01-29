@@ -1,9 +1,9 @@
 # 💫 About me
 👋 Hey there!
 <br>
-👨‍💻 Game programmer with 6 years UE4/UE5 experience
+👨‍💻 Game programmer with 7 years UE4/UE5 experience
 <br>
-🙌🏻 20 years old
+🙌🏻 21 years old
 <br>
 🎮 Specialized in multiplayer at shooter games
 <br>
