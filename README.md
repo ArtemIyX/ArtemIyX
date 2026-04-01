@@ -1,40 +1,87 @@
-# 💫 About me
-👋 Hey there!
-<br>
-👨‍💻 Game programmer with 7 years UE4/UE5 experience
-<br>
-🙌🏻 21 years old
-<br>
-🎮 Specialized in multiplayer at shooter games
-<br>
-🌟 A bit of experience with the backend
-<br>
-🍋‍🟩 Client Developer of [Endless War](https://newjourney.online/en/)
-<br>
-🍇 Developer of [RockBelt](<https://wellsaik.itch.io/rockbelt>)
-<br>
-🍉 Lead Developer of [Riftborn](<https://store.steampowered.com/app/3421920/Riftborn/>)
-# 💻 Tech Stack:
-![Unreal Engine 4/5](https://github.com/ArtemIyX/ArtemIyX/assets/68477399/1ba668e9-727a-4d82-bcce-adad475a2430)
-## Languages
-![C++](https://github.com/ArtemIyX/ArtemIyX/assets/68477399/f9336e5b-8b60-431c-a81a-db46e63a6f58)
-![C#](https://github.com/ArtemIyX/ArtemIyX/assets/68477399/467fcc9c-d12d-49f3-833b-8b6bc6d61809)
-![Python](https://github.com/ArtemIyX/ArtemIyX/assets/68477399/5f6a70cf-266e-426a-a3bb-970b862036a3)
-## Web
-![HTML5](https://github.com/ArtemIyX/ArtemIyX/assets/68477399/435f0bef-68dc-43a8-b95f-0190a50dcac6)
-![CSS3](https://github.com/ArtemIyX/ArtemIyX/assets/68477399/3ebdb463-fde8-4b2f-bc2a-7ddb1288eae8)
-![PHP](https://github.com/ArtemIyX/ArtemIyX/assets/68477399/447bedd8-9f68-4020-bd87-5a4f10f755cf)
-![Dot NET](https://github.com/ArtemIyX/ArtemIyX/assets/68477399/232271b4-0ee9-498a-ad67-3c4747fd89c7)
-## DB
-![MySql](https://github.com/ArtemIyX/ArtemIyX/assets/68477399/80ab85c6-5b63-4452-bc6a-26f947fe3c7c)
-![Postgres](https://github.com/ArtemIyX/ArtemIyX/assets/68477399/75f269a4-cbb0-4452-b855-29fb26f031da)
-![SqlLite](https://github.com/ArtemIyX/ArtemIyX/assets/68477399/63239499-1496-4a0e-98d7-846900cf9afd)
-![Mongo](https://github.com/ArtemIyX/ArtemIyX/assets/68477399/e2ccba21-7502-47fd-878f-a4e1bb152fdb)
-![Microsoft SQL Server](https://github.com/ArtemIyX/ArtemIyX/assets/68477399/df866a7a-d1d0-4879-bff3-2aa5f1781bba)
+# Artem Podorozhko
 
-## Management
-![Jira](https://github.com/ArtemIyX/ArtemIyX/assets/68477399/1b080ae3-70c4-4fc5-bdee-796050abda36)
-![Trello](https://github.com/ArtemIyX/ArtemIyX/assets/68477399/ce1df56b-05c7-4230-835c-21d395056b0b)
-## Misc
-![Postman](https://github.com/ArtemIyX/ArtemIyX/assets/68477399/52059e36-bdbb-4125-9825-432a728e16f7)
-![Docker](https://github.com/ArtemIyX/ArtemIyX/assets/68477399/603ee1eb-6893-4acc-b9c6-7eb4b059b438)
+**Client Programmer @ [New Journey](https://newjourney.online/en/)** · Building *Endless War: Legacy* for the China market
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Artem%20Podorozhko-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artem-podorozhko-ba3421243/)
+[![Open to Freelance](https://img.shields.io/badge/Open%20to%20Freelance-1D9E75?style=flat&logo=handshake&logoColor=white)](https://www.linkedin.com/in/artem-podorozhko-ba3421243/)
+[![Languages](https://img.shields.io/badge/Language-Ukrainian%20%7C%20English-4B5563?style=flat)]()
+[![Mentor](https://img.shields.io/badge/Mentor-Junior%20Devs-8B5CF6?style=flat&logo=buffer&logoColor=white)](https://discord.gg/kjNmkps4gD)
+
+---
+
+7+ years in Unreal Engine · 4 years commercial · 10k+ animated entities @ 60fps
+
+---
+
+## About
+
+Self-taught C++ / Unreal Engine developer focused on multiplayer systems, AI, ECS/MASS, and client-side performance. Currently working on **Endless War: Legacy** — an MMO RPG targeting the China market. I also build desktop apps and backend tooling on the side, and mentor junior developers.
+
+---
+
+## Tech Stack
+
+**Unreal Engine / C++**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine%205-313131?style=flat&logo=unrealengine&logoColor=white)
+![Multiplayer](https://img.shields.io/badge/Multiplayer-313131?style=flat)
+![ECS/MASS](https://img.shields.io/badge/ECS%20%2F%20MASS-313131?style=flat)
+![AI Behavior](https://img.shields.io/badge/AI%20Behavior-313131?style=flat)
+![GAS](https://img.shields.io/badge/GAS-313131?style=flat)
+![Replication](https://img.shields.io/badge/Replication-313131?style=flat)
+![Performance](https://img.shields.io/badge/Performance%20Opt-313131?style=flat)
+![TCP/UDP](https://img.shields.io/badge/TCP%20UDP-313131?style=flat)
+![MultiThreading](https://img.shields.io/badge/Multithreading-313131?style=flat)
+![Qt](https://img.shields.io/badge/Qt%20Widgets-41CD52?style=flat&logo=qt&logoColor=white)
+
+**C#**
+
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![MAUI](https://img.shields.io/badge/MAUI-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
+
+**Web / Other**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-novice-CE422B?style=flat&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-novice-3776AB?style=flat&logo=python&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+**Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
+
+---
+
+## Selected Projects
+
+| Project | Stack | Notes |
+|---|---|---|
+| [**Endless War: Legacy**](https://newjourney.online/en/) | UE5 · C++ · TCP/MASS | MMO RPG · China · in dev |
+| [**Rockbelt**](https://bit.ly/rockbelt)  *(pet)* | UE5 · C++ | Multiplayer · Turn-Based |
+| **Trading App** | Rust · Vue.js | Backend + frontend for investors |
+| **MOBA Game** | UE5 | Dota-like · Team lead + lead dev |
+| **Scientific Simulator** | UE5 | Boats & drones physics |
+| **Multiplayer Shooter** | UE5 | Third-person |
+| **Multiplayer Survival** | UE4 | DayZ-like |
+| **Crypto Client App** | C# · MAUI · ASP.NET | Desktop client |
+| **Riftborn** *(pet)* | UE5 | Coming to Steam · link soon |
+
+---
+
+*Self-taught. No degree. Available for freelance — game dev, desktop apps, backend systems.*
