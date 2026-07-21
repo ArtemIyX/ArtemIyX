@@ -74,7 +74,8 @@ Self-taught C++ / Unreal Engine developer focused on multiplayer systems, AI, EC
 |---|---|---|
 | [**Endless War: Legacy**](https://newjourney.online/en/) | UE5 · C++ · TCP/MASS | MMO RPG · China · in dev |
 | [**Rockbelt**](https://bit.ly/rockbelt)  *(pet)* | UE5 · C++ | Multiplayer · Turn-Based |
-| **Trading App** | Rust · Vue.js | Backend + frontend for investors |
+| [**Web UI Plugin**](https://github.com/ArtemIyX/WebUserInterfaceUnreal) | Rust · Vue.js | Backend + frontend for investors |
+| **Trading App** | UE5 · C++ | CEF + Web Socket + HTTP + Protobuf |
 | **MOBA Game** | UE5 | Dota-like · Team lead + lead dev |
 | **Scientific Simulator** | UE5 | Boats & drones physics |
 | **Multiplayer Shooter** | UE5 | Third-person |
