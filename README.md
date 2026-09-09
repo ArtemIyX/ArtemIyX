@@ -15,7 +15,7 @@
 
 ## About
 
-Self-taught C++ / Unreal Engine developer focused on multiplayer systems, AI, ECS/MASS, and client-side performance. Currently working on **Endless War: Legacy** — an MMO RPG targeting the China market. I also build desktop apps and backend tooling on the side, and mentor junior developers.
+C++ / Unreal Engine developer focused on multiplayer systems, AI, ECS/MASS, and client-side performance. Currently working on **Endless War: Legacy** — an MMO RPG targeting the China market. I also build desktop apps and backend tooling on the side, and mentor junior developers.
 
 ---
 
