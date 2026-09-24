@@ -3,7 +3,6 @@
 **Client Programmer @ [New Journey](https://newjourney.online/en/)** · Building *Endless War: Legacy* for the China market
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Artem%20Podorozhko-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artem-podorozhko-ba3421243/)
-[![Open to Freelance](https://img.shields.io/badge/Open%20to%20Freelance-1D9E75?style=flat&logo=handshake&logoColor=white)](https://www.linkedin.com/in/artem-podorozhko-ba3421243/)
 [![Languages](https://img.shields.io/badge/Language-Ukrainian%20%7C%20English-4B5563?style=flat)]()
 [![Mentor](https://img.shields.io/badge/Mentor-Junior%20Devs-8B5CF6?style=flat&logo=buffer&logoColor=white)](https://discord.gg/kjNmkps4gD)
 
