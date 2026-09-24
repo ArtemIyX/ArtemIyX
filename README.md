@@ -85,4 +85,4 @@ C++ / Unreal Engine developer focused on multiplayer systems, AI, ECS/MASS, and 
 
 ---
 
-*Self-taught. No degree. Available for freelance — game dev, desktop apps, backend systems.*
+*Many projects are covered by NDAs or are for personal use, so they are not open source*
